@@ -20,5 +20,5 @@
 
 ## :books: Java基础
 
-- [Java语法](https://github.com/scarlettliuu/Java-/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Method%20Parameters.md)
-- [Java并发](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
+- [Java语法](https://github.com/scarlettliuu/Notes-For-Programmers/blob/main/Java%E5%9F%BA%E7%A1%80/Java%E8%AF%AD%E6%B3%95/%E7%9B%AE%E5%BD%95.md)
+- [Java并发](https://github.com/scarlettliuu/Notes-For-Programmers/blob/main/Java%E5%9F%BA%E7%A1%80/Java%E5%B9%B6%E5%8F%91/%E7%9B%AE%E5%BD%95.md)
